@@ -1,0 +1,8 @@
+C:\src\unihack\bin\Debug\netcoreapp1.1\unihack.deps.json
+C:\src\unihack\bin\Debug\netcoreapp1.1\unihack.runtimeconfig.json
+C:\src\unihack\bin\Debug\netcoreapp1.1\unihack.runtimeconfig.dev.json
+C:\src\unihack\bin\Debug\netcoreapp1.1\unihack.dll
+C:\src\unihack\bin\Debug\netcoreapp1.1\unihack.pdb
+C:\src\unihack\obj\Debug\netcoreapp1.1\unihack.AssemblyInfo.cs
+C:\src\unihack\obj\Debug\netcoreapp1.1\unihack.dll
+C:\src\unihack\obj\Debug\netcoreapp1.1\unihack.pdb
